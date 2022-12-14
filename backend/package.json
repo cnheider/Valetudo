@@ -41,7 +41,7 @@
     "compression": "1.7.4",
     "crc": "3.8.0",
     "escape-html": "1.0.3",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "express-basic-auth": "1.2.0",
     "express-dynamic-middleware": "1.0.0",
     "express-list-endpoints": "6.0.0",
